@@ -1,6 +1,11 @@
 # 🐶 DogWifDrip ($DRIP)
 
 ![DogWifDrip Banner](https://dogwifdrip.com/assets/banner-drip.png)
+<p align="center">
+  <img src="DogWifDrip_logo.png" alt="DogWifDrip Logo" width="200">
+</p>
+
+
 
 > **Meme-Powered Token. Real-World Impact. Built on Base.**
 
