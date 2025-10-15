@@ -53,7 +53,7 @@ Our mission is to merge viral crypto culture with meaningful utility — support
 
 **Total Supply:** 1,000,000,000 $DRIP  
 **Network:** Base (Layer-2 Ethereum)  
-**Contract:** `0xYOURCONTRACTADDRESSHERE`  
+**Contract:** 0x42121Cc6689DFa37d1BCf7cAA6fDAb0ef240ADE4
 **License:** MIT  
 
 ---
@@ -69,7 +69,7 @@ Our mission is to merge viral crypto culture with meaningful utility — support
 
 > See `/contracts/DogWifDripSafeLaunch.sol` for the verified source.
 
----
+---https://basescan.org/address/0x42121Cc6689DFa37d1BCf7cAA6fDAb0ef240ADE4
 
 ## 🗺 Roadmap
 
@@ -114,10 +114,10 @@ DogWifDrip/
 ## 🌐 Links
 
 - 🐾 Website: [https://dogwifdrip.com](https://dogwifdrip.org)  
-- 🐦 Twitter/X: [@DogWifDrip](https://x.com/DogWifDrip)  
-- 💬 Telegram: [t.me/DogWifDrip](https://t.me/DogWifDrip)  
+- 🐦 Twitter/X: [@DogWifDrip](https://x.com/DogWif_Drip)  
+- 💬 Telegram: [t.me/DogWifDrip](https://t.me/DogWifDripcommunity)  
 - 🧩 SnoutSocial: [https://mysnoutsocial.com](https://mysnoutsocial.com)  
-- 📧 Email: team@dogwifdrip.com  
+- 📧 Email: dogwifdripcrypto@gmail.com  
 
 ---
 
