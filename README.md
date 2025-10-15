@@ -113,7 +113,7 @@ DogWifDrip/
 
 ## 🌐 Links
 
-- 🐾 Website: [https://dogwifdrip.com](https://dogwifdrip.com)  
+- 🐾 Website: [https://dogwifdrip.com](https://dogwifdrip.org)  
 - 🐦 Twitter/X: [@DogWifDrip](https://x.com/DogWifDrip)  
 - 💬 Telegram: [t.me/DogWifDrip](https://t.me/DogWifDrip)  
 - 🧩 SnoutSocial: [https://mysnoutsocial.com](https://mysnoutsocial.com)  
