@@ -76,6 +76,13 @@ DogWifDrip operates under the principles of **“Responsible Innovation”** out
 | **5. Global Scale** | Mobile App · Pet Education & Health Integrations |
 
 ---
+---
+
+### 🌐 Ecosystem Overview
+
+![DogWifDrip Ecosystem Map](ecosystem-map.png)
+
+> The DogWifDrip ecosystem connects SnoutSocial, AI Pet Assistant, Play-to-Earn Games, and the Rescue Fund — turning meme energy into real-world pet rescue impact.
 
 ### 📈 Transparency Dashboard (Coming Soon)
 Track real-time treasury activity, burns, and rescue donations:  
