@@ -117,7 +117,7 @@ Not financial advice. Always DYOR before investing in any cryptocurrency.
 
 ## 🌐 Links
 
-- 🐾 Website: [https://dogwifdrip.com](https://dogwifdrip.org)  
+- 🐾 Website: (https://dogwifdrip.org)  
 - 🐦 Twitter/X: [@DogWifDrip](https://x.com/DogWif_Drip)  
 - 💬 Telegram: [t.me/DogWifDrip](https://t.me/DogWifDripcommunity)  
 - 🧩 SnoutSocial: [https://mysnoutsocial.com](https://mysnoutsocial.com)  
