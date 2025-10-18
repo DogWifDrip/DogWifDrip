@@ -19,7 +19,7 @@
 
 ## 🚀 Overview
 
-**DogWifDrip ($DRIP)** is a meme-powered token built on the **Base network** with **real-world impact**.  
+**DogWifDrip ($DRIP)** is a meme-powered token built on the **Base network** with **real-world impact**.  A USA based company founded and overseen by Americans. 
 Our mission is to merge viral crypto culture with meaningful utility — supporting pet rescues, driving adoption, and creating a global pet-lover social ecosystem.
 
 ---
