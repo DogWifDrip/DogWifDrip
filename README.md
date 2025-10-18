@@ -1,8 +1,6 @@
 # 🐶 DogWifDrip ($DRIP)
 > **Meme-Powered Token. Real-World Impact. Built on Base.**
 
-![DogWifDrip Banner](site/assets/banner.png)
-
 ---
 
 ### 🚀 Overview
